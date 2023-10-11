@@ -14,10 +14,10 @@ body{
 nav.menu-lateral{
     width: 70px;
     height: 100%;
-    background-color: #40499b;
+    background-color: #090e41;
     float: left;
     transition: .5s;
-    box-shadow: 3px 0 0 rgb(181, 168, 219);
+    box-shadow: 3px 0 0 rgb(233, 216, 62);
     position: fixed;
     top: 0%;
     left: 0%;
@@ -48,7 +48,7 @@ ul li.item-menu{
 }
 
 ul li.item-menu:hover{
-    background: #9ebdcc;
+    background: #8e97ca;
 }
 
 ul li.item-menu a{
